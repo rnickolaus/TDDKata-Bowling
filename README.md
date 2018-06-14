@@ -1,2 +1,2 @@
 # TDDKata-Bowling
-Bowling TDD kata - Used for Heartland Developers Conference 2017
+Bowling TDD kata - Used for HDC 2017, Nebraska.Code 2018
